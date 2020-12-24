@@ -47,7 +47,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 5.0, 460.0, 671.0, 33.0 ],
-					"text" : "Little idle remark: we often speak of \"grace notes\", but within the bach environement this is a slight abuse for \"grace chords\": indeed what is actually grace is the whole chord, not the single note!"
+					"text" : "Little idle remark: we often speak of \"grace notes\", but within the bach environment this is a slight abuse of the term \"grace chords\": indeed what is actually grace is the whole chord, not the single note!"
 				}
 
 			}
@@ -61,7 +61,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 252.0, 294.0, 450.0, 141.0 ],
-					"text" : "Have a look at what happens when you dump the duration of a portion of score with grace figures:\n- if you choose not to dump duration as trees, you'll see some 0's appear among the duration. This is the standard way to tell that there's a GENERIC grace note. \n- If you want to be more precise, you should dump durations as tree: you'll immediately see that the grace figuration is indeed gathered inside an unique level starting with the letter \"g\": putting a \"g\" at the beginning of a level is, indeed, the standard way to tell that there are SPECIFIC grace notes, whose durations (or whose further tree ramifications!!) will be explained AFTER the g. In this very case, there is a further rhythmic specification, the (1/16 1/16) sub-llll."
+					"text" : "Have a look at what happens when you dump the durations of a portion of a score with grace figures:\n- if you choose not to dump durations as trees, you'll see some 0's appear among the durations. This is the standard way to tell that there's a GENERIC grace note. \n- If you want to be more precise, you should dump durations as tree: you'll immediately see that the grace figuration is indeed gathered inside a unique level starting with the letter \"g\": putting a \"g\" at the beginning of a level is, indeed, the standard way to tell that there are SPECIFIC grace notes, whose durations (or whose further tree ramifications!!) will be explained AFTER the g. In this very case, there is a further rhythmic specification, the (1/16 1/16) sub-llll."
 				}
 
 			}
@@ -183,7 +183,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 2.0, 44.0, 659.0, 60.0 ],
-					"text" : "In [bach.score] you have full supporto for grace notes and grace figures. You have different ways to insert them, play them and retrieve them, and we'll discover them together during this tutorial.\nThe first thing you might notice, from examples like the following, is that you can insert grace notes of any duration, grace rests, grace tuplets, or even grace nested tuplets:"
+					"text" : "In [bach.score] you have full support for grace notes and grace figures. You have different ways to insert them, play them and retrieve them, and we'll discover them together during this tutorial.\nThe first thing you might notice, from examples like the following, is that you can insert grace notes of any duration, grace rests, grace tuplets, or even grace nested tuplets:"
 				}
 
 			}

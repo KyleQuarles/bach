@@ -107,7 +107,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 8.0, 405.0, 237.0, 60.0 ],
 					"style" : "",
-					"text" : "But if you use the \"g\" method, you can of course create more complicate rhythms inside the grace level, involving dots, tuplets, rests and so on. For instance:"
+					"text" : "But if you use the \"g\" method, you can of course create more complicated rhythms inside the grace level, involving dots, tuplets, rests and so on. For instance:"
 				}
 
 			}
@@ -229,7 +229,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 8.0, 140.0, 237.0, 74.0 ],
 					"style" : "",
-					"text" : "If you don't want to have troubles, and you just need STANDARD (which for bach means: QUAVER) grace notes, you can use the easy way: put a ZERO duration, and bach will understand!"
+					"text" : "If you don't want any trouble, and you just need STANDARD (which for bach means: QUAVER) grace notes, you can use the easy way: put a ZERO duration, and bach will understand!"
 				}
 
 			}

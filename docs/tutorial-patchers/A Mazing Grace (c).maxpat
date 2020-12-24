@@ -50,7 +50,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "comment",
-					"text" : "Another way to set the grace flag is by using the chord inspector: select the grace chord and press the letter I to open the chord inspector: you'll see a toggle for the bach-attribute \"grace\": unchecking the box, will revert the note to a standard note.\nSelect an ordinary chord, open the inspector, and check the \"grace\" toggle in order to get it grace.",
+					"text" : "Another way to set the grace flag is by using the chord inspector: select the grace chord and press the letter I to open the chord inspector: you'll see a toggle for the bach-attribute \"grace\": unchecking the box will revert the note to a standard note.\nSelect an ordinary chord, open the inspector, and check the \"grace\" toggle in order to make it grace.",
 					"linecount" : 7,
 					"numoutlets" : 0,
 					"id" : "obj-34",
@@ -101,7 +101,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "comment",
-					"text" : "If you use the Linear Editing system, there's a very easy way to insert a grace notes: just press the letter X when the cursor is on the chord (or right after the chord). Try yourself!",
+					"text" : "If you use the Linear Editing system, there's a very easy way to insert grace notes: just press the letter X when the cursor is on the chord (or right after the chord). Try it yourself!",
 					"linecount" : 2,
 					"numoutlets" : 0,
 					"id" : "obj-31",

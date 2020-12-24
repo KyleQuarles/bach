@@ -110,7 +110,7 @@
 , 			{
 				"box" : 				{
 					"maxclass" : "comment",
-					"text" : "Grace notes can of course be played: the gracedur attribute tells us which should be the corresponding figure a 1/8 grace note should assume. If we set gracedur 1/64, this means that a quaver grace note will be played as a 1/64 ordinary note. All other grace durations will be scaled accordingly.",
+					"text" : "Grace notes can of course be played: the gracedur attribute tells us which should be the corresponding figure a 1/8 grace note should assume. If we set gracedur to 1/64, this means that a quaver grace note will be played as a 1/64 ordinary note. All other grace durations will be scaled accordingly.",
 					"linecount" : 4,
 					"numinlets" : 1,
 					"fontsize" : 12.0,
